@@ -1,19 +1,18 @@
-#Objetivo
+#Objetivo#
 
 Este código é uma pequena API com fins educativos onde é possível criar /obter/atualizar/deletar, projetos. (CRUD em inglês).
 
-##Dependências para rodar esse código:
+##Dependências para rodar esse código:##
 
 Clonar esse código para seu repositório local.
 
 Ter instalado:
+- <a href="https://nodejs.org/en/"> NodeJS </a>
+- <a href="https://classic.yarnpkg.com/en/docs/install/"> Yarn </a>
+- Algum terminal de comando de sua preferência 
+- <a href="https://insomnia.rest/"> Insomnia (Recomendado) </a>
 
-- NodeJS
-- Yarn
-- Algum terminal de comando de sua preferência
-- Insomnia (Recomendado)
-
-##Para rodar o código:
+##Para rodar o código:##
 
 Execute yarn install para instalar todas as dependências do projeto ou faça isso manualmente olhando as dependências no package.json
 
